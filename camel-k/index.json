@@ -4,6 +4,14 @@
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "client/kamel",
+          "target": "/usr/bin/"
+        }
+      ]
+    },
     "steps": [{
       "title": "Step 1 - Run Command",
       "text": "step1.md"
